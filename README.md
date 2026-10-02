@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tejasraj-da"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-tejasraj--da-0f172a?style=flat-square&logo=github&logoColor=22d3ee"></a>
-  <a href="https://www.linkedin.com/in/tejasraj-ml"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tejasraj--analytics-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee"></a>
+  <a href="https://www.linkedin.com/in/tejasraj-ml"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tejasraj--ml-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee"></a>
   <a href="https://tejasraj-da.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=flat-square&logo=googlechrome&logoColor=22d3ee"></a>
 </p>
 
