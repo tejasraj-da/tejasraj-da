@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190" role="img" aria-labelledby="title desc">
+<title id="title">Machine learning production pipeline</title>
+<desc id="desc">Data flows through validation, feature engineering, training, evaluation, deployment and monitoring.</desc>
+<defs><linearGradient id="a" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1100" height="190" rx="20" fill="#070b16"/>
+<path d="M95 95H1005" stroke="url(#a)" stroke-width="3" opacity=".65"/>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+  <g fill="#0b1020" stroke="#334155">
+    <rect x="25" y="55" width="125" height="80" rx="14"/><rect x="175" y="55" width="125" height="80" rx="14"/>
+    <rect x="325" y="55" width="125" height="80" rx="14"/><rect x="475" y="55" width="125" height="80" rx="14"/>
+    <rect x="625" y="55" width="125" height="80" rx="14"/><rect x="775" y="55" width="125" height="80" rx="14"/>
+    <rect x="925" y="55" width="150" height="80" rx="14"/>
+  </g>
+  <g fill="#22d3ee" font-size="15" font-weight="700">
+    <text x="87" y="88">DATA</text><text x="237" y="88">VALIDATION</text><text x="387" y="82">FEATURE</text><text x="387" y="101">ENGINEERING</text>
+    <text x="537" y="88">TRAINING</text><text x="687" y="88">EVALUATION</text><text x="837" y="88">DEPLOYMENT</text><text x="1000" y="82">MONITORING</text><text x="1000" y="101">&amp; DRIFT</text>
+  </g>
+  <g fill="#64748b" font-size="10">
+    <text x="87" y="118">ingest</text><text x="237" y="118">quality</text><text x="387" y="118">features</text><text x="537" y="118">experiments</text>
+    <text x="687" y="118">metrics</text><text x="837" y="118">API / app</text><text x="1000" y="118">feedback</text>
+  </g>
+</g>
+</svg>

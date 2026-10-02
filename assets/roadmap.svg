@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-labelledby="title desc">
+<title id="title">Tejas Raj learning roadmap</title>
+<desc id="desc">Roadmap from Python and statistics through machine learning, deep learning, LLMs, ML engineering and research.</desc>
+<defs>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <linearGradient id="box" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#151b30"/></linearGradient>
+</defs>
+<rect width="1000" height="190" rx="20" fill="#070b16"/>
+<path d="M75 95H925" stroke="url(#line)" stroke-width="4" opacity=".7"/>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+  <g fill="url(#box)" stroke="#334155">
+    <rect x="25" y="62" width="95" height="66" rx="12"/><rect x="140" y="62" width="95" height="66" rx="12"/>
+    <rect x="255" y="62" width="95" height="66" rx="12"/><rect x="370" y="62" width="95" height="66" rx="12"/>
+    <rect x="485" y="62" width="95" height="66" rx="12"/><rect x="600" y="62" width="95" height="66" rx="12"/>
+    <rect x="715" y="62" width="95" height="66" rx="12"/><rect x="830" y="62" width="145" height="66" rx="12"/>
+  </g>
+  <g fill="#22d3ee" font-size="13" font-weight="700">
+    <text x="72" y="88">PYTHON</text><text x="187" y="88">STATISTICS</text><text x="302" y="88">SQL</text><text x="417" y="88">DATA</text>
+    <text x="417" y="105">ANALYTICS</text><text x="532" y="88">MACHINE</text><text x="532" y="105">LEARNING</text>
+    <text x="647" y="88">DEEP</text><text x="647" y="105">LEARNING</text><text x="762" y="88">NLP / LLM</text>
+    <text x="902" y="88">ML ENGINEERING</text><text x="902" y="105">→ RESEARCH</text>
+  </g>
+  <g fill="#94a3b8" font-size="10">
+    <text x="72" y="118">foundation</text><text x="187" y="118">reasoning</text><text x="302" y="118">data</text><text x="532" y="118">models</text>
+    <text x="647" y="118">neural nets</text><text x="762" y="118">language</text><text x="902" y="118">systems</text>
+  </g>
+</g>
+</svg>
