@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tejasraj-da"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-tejasraj--da-0f172a?style=flat-square&logo=github&logoColor=22d3ee"></a>
-  <a href="https://linkedin.com/in/tejasraj-analytics"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tejasraj--analytics-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee"></a>
+  <a href="https://www.linkedin.com/in/tejasraj-ml"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tejasraj--analytics-0f172a?style=flat-square&logo=linkedin&logoColor=22d3ee"></a>
   <a href="https://tejasraj-da.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=flat-square&logo=googlechrome&logoColor=22d3ee"></a>
 </p>
 
@@ -86,9 +86,6 @@ A research-style project is clearly labeled as such; it is not presented as publ
   <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=tejasraj-da&hide_border=true&background=0b1020&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee&sideLabels=cbd5e1&currStreakNum=cbd5e1&sideNums=cbd5e1&dates=64748b">
 </p>
 
-<p align="center">
-  <img alt="Contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasraj-da&bg_color=0b1020&color=22d3ee&line=a78bfa&point=ffffff&area=true&hide_border=true">
-</p>
 
 <p align="center">
   <picture>
@@ -118,7 +115,7 @@ A research-style project is clearly labeled as such; it is not presented as publ
 ## Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/tejasraj-analytics"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"></a>
+  <a href="https://www.linkedin.com/in/tejasraj-ml"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee"></a>
   <a href="https://tejasraj-da.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=googlechrome&logoColor=22d3ee"></a>
 </p>
 
